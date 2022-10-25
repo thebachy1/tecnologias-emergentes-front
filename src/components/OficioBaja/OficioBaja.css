@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  margin: auto;
+  min-width: 100%;
+  max-width: 100%;
+}
+
+.inputContainer {
+  display: flex;
+  flex-direction: column;
+  height: 11vh;
+  justify-content: space-between;
+  margin: auto;
+}
+
+.input_name {
+  margin: 150%;
+}
+
+.data_container {
+  font-family: "Roboto", sans-serif;
+  width: 70%;
+  margin: auto;
+  margin-top: 10%;
+}

@@ -1,0 +1,35 @@
+.wrapper {
+  width: 100vw;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.text_input {
+  max-width: 25%;
+  box-sizing: border-box;
+  margin: 5px !important;
+}
+
+.container_buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 25px;
+}
+
+.input_send {
+  margin: 5px !important;
+}
+
+.data_container {
+  font-family: "Roboto", sans-serif;
+  width: 70%;
+  margin: auto;
+  margin-top: 10%;
+}
